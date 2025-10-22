@@ -43,7 +43,13 @@ Incluye:
 | `/robots.txt` | Permisos para crawlers |
 | `.github/workflows/*.yml` | CI/CD: validación, link-check y GitHub Pages |
 
----
+---{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "TCDS-FARO",
+  "author": "Genaro Carrasco Ozuna",
+  "about": "Coherence field Σ, synchronon σ, ΣFET experiments"
+}
 
 ## ⚙️ Instalación y uso local
 
