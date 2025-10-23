@@ -19,11 +19,4 @@ Baliza documental pública del paradigma TCDS.
 ## 📖 Libro *Paradigma TCDS*
 [![Abrir libro en línea](https://img.shields.io/badge/📘_Abrir%20Libro-Paradigma%20TCDS-blue?style=for-the-badge)](https://geozunac3536-jpg.github.io/TCDS-FARO/assets/Libro_Paradigma_TCDS.pdf)
 
-<iframe
-  src="https://geozunac3536-jpg.github.io/TCDS-FARO/assets/Libro_Paradigma_TCDS.pdf"
-  width="100%" height="900" style="border:none">
-</iframe>
 
-> URL directa: https://geozunac3536-jpg.github.io/TCDS-FARO/assets/Libro_Paradigma_TCDS.pdf
-
----
