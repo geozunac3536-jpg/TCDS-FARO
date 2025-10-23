@@ -43,7 +43,9 @@ Incluye:
 | `/sitemap.xml` | Mapa de rastreo automático |
 | `/robots.txt` | Permisos para crawlers |
 | `.github/workflows/*.yml` | CI/CD: validación, link-check y Pages |
-
+## 📖 Libro Paradigma TCDS
+- [Abrir en línea](https://geozunac3536-jpg.github.io/TCDS-FARO/assets/Libro_Paradigma_TCDS.pdf)
+- Ruta en repo: `/docs/assets/Libro_Paradigma_TCDS.pdf`
 ---
 
 ## 🌐 Sitio público
