@@ -4,7 +4,13 @@ description: "Fuente de verdad única; ecuación → observable → métrica →
 author: "Genaro Carrasco Ozuna"
 lang: "es-MX"
 ---
+## 📖 Leer el Libro *Paradigma TCDS*
 
+Puede acceder al libro completo en formato PDF directamente desde el sitio:
+
+[![Abrir libro en línea](https://img.shields.io/badge/📘_Abrir%20Libro-Paradigma%20TCDS-blue?style=for-the-badge)](https://geozunac3536-jpg.github.io/TCDS-FARO/assets/Libro_Paradigma_TCDS.pdf)
+
+> El archivo se abrirá directamente en su navegador.
 {% seo %}
 <script type="application/ld+json">{% include_relative schema.jsonld %}</script>
 
