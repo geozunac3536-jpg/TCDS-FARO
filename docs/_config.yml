@@ -1,0 +1,9 @@
+title: "LBCU — Ley de Balance Coherencial Universal"
+description: "Paradigma falsable de coherencia universal derivado de TCDS."
+theme: jekyll-theme-cayman
+lang: "es-MX"
+url: "https://geozunac3536-jpg.github.io/LBCU"
+plugins: [jekyll-seo-tag, jekyll-sitemap, jekyll-feed]
+include: [index.md, LBCU.md, metadata.yml, schema.jsonld, sitemap.xml, robots.txt, feed.xml]
+markdown: kramdown
+kramdown: { input: GFM }
