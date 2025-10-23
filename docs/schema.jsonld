@@ -5,3 +5,18 @@
   "author": "Genaro Carrasco Ozuna",
   "about": "Coherence field Σ, Synchronon σ, ΣFET experiments"
 }
+{
+  "@type": "CreativeWork",
+  "name": "Ley de Balance Coherencial Universal (LBCU-)",
+  "url": "https://geozunac3536-jpg.github.io/LBCU/",
+  "author": {
+    "@type": "Person",
+    "name": "Genaro Ozuna",
+    "identifier": "https://orcid.org/0009-0005-6358-9910"
+  },
+  "isPartOf": {
+    "@type": "Dataset",
+    "name": "TCDS-FARO"
+  },
+  "description": "Marco ontológico y operativo que rige la coherencia entre teoría, hardware, documentación y defensa legal."
+}
