@@ -1,9 +1,24 @@
-title: "LBCU — Ley de Balance Coherencial Universal"
-description: "Paradigma falsable de coherencia universal derivado de TCDS."
+title: "TCDS-FARO — Teoría Cromodinámica Sincrónica"
+description: "Baliza documental del paradigma TCDS: Σ–χ, Synchronon, ΣFET, CSL-H, LBCU."
 theme: jekyll-theme-cayman
 lang: "es-MX"
-url: "https://geozunac3536-jpg.github.io/LBCU"
+url: "https://geozunac3536-jpg.github.io/TCDS-FARO"
 plugins: [jekyll-seo-tag, jekyll-sitemap, jekyll-feed]
-include: [index.md, LBCU.md, metadata.yml, schema.jsonld, sitemap.xml, robots.txt, feed.xml]
+include:
+  - index.md
+  - compendio.md
+  - manifiesto_TCDS.md
+  - lagrangiano_SigmaChi.md
+  - SigmaFET_protocol.md
+  - CSL-H_metricas.md
+  - plan_cruzado.md
+  - curvatura_Sigma.md
+  - LBCU.md
+  - metadata.yml
+  - schema.jsonld
+  - sitemap.xml
+  - robots.txt
+  - feed.xml
+  - assets/Libro_Paradigma_TCDS.pdf
 markdown: kramdown
 kramdown: { input: GFM }
