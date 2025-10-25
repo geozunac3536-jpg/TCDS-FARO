@@ -161,3 +161,20 @@ pages.yml — despliegue automático de GitHub Pages.
 Genaro Carrasco Ozuna
 Correo: geozunac3536@gmail.com / geozunac3536@outlook.com
 GitHub: @geozunac3536-jpg
+## Sobre el autor
+
+**Genaro Carrasco Ozuna (1984, Orizaba, Veracruz, México)**  
+Físico Teórico · Matemático · Investigador · Inventor  
+Arquitecto Paradigmático del linaje MSL → MCSLU → TMRCU → **TCDS**.  
+Diseño experimental: **ΣFET/SYNCTRON**, **CSL-H**, Spin-Σ.
+
+Contacto: +52 271 140 8336 · geozunac3536@gmail.com
+
+### Resumen ontológico
+- **TMRCU**: Cinco Decretos (Q, CGA, φ, χ, Σ).  
+- **TCDS**: formalismo Σ–χ, sincronón (σ), curvatura efectiva \(R \propto \nabla^2 \Sigma\).  
+- **Ingeniería**: ΣFET, bancos ∇Σ, métricas Σ (LI, R(t), κΣ).  
+- **Biología**: CSL-H y sincronograma.
+
+### Palabras clave
+TCDS, TMRCU, sincronón, ΣFET, CSL-H, coherencia, Σ–χ, Kuramoto, Stuart-Landau, Arnold tongues, Spin-Σ, IPS, Canon Paradigmático.
